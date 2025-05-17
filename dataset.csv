@@ -1,18 +1,96 @@
-# 🚗 AI-Driven Autonomous Traffic Management System
+Vehicle_ID: 106, Speed_kmph: 111, Traffic_Density: 0.82, Weather_Condition: Snowy, Location: Commercial Street, Timestamp: 2025-05-17 08:06:00, Incident_Flag: 1
+Vehicle_ID: 107, Speed_kmph: 52, Traffic_Density: 0.32, Weather_Condition: Stormy, Location: Highway 1, Timestamp: 2025-05-17 08:07:00, Incident_Flag: 0
+Vehicle_ID: 108, Speed_kmph: 23, Traffic_Density: 0.98, Weather_Condition: Snowy, Location: Downtown, Timestamp: 2025-05-17 08:08:00, Incident_Flag: 1
+Vehicle_ID: 109, Speed_kmph: 61, Traffic_Density: 0.58, Weather_Condition: Snowy, Location: Commercial Street, Timestamp: 2025-05-17 08:09:00, Incident_Flag: 0
+Vehicle_ID: 110, Speed_kmph: 99, Traffic_Density: 0.54, Weather_Condition: Cloudy, Location: Airport Road, Timestamp: 2025-05-17 08:10:00, Incident_Flag: 1
+Vehicle_ID: 111, Speed_kmph: 116, Traffic_Density: 0.53, Weather_Condition: Clear, Location: Downtown, Timestamp: 2025-05-17 08:11:00, Incident_Flag: 1
+Vehicle_ID: 112, Speed_kmph: 108, Traffic_Density: 0.99, Weather_Condition: Rainy, Location: Tech Park, Timestamp: 2025-05-17 08:12:00, Incident_Flag: 1
+Vehicle_ID: 113, Speed_kmph: 34, Traffic_Density: 0.15, Weather_Condition: Rainy, Location: Main Street, Timestamp: 2025-05-17 08:13:00, Incident_Flag: 0
+Vehicle_ID: 114, Speed_kmph: 111, Traffic_Density: 0.39, Weather_Condition: Clear, Location: Highway 1, Timestamp: 2025-05-17 08:14:00, Incident_Flag: 0
+Vehicle_ID: 115, Speed_kmph: 116, Traffic_Density: 0.91, Weather_Condition: Snowy, Location: City Center, Timestamp: 2025-05-17 08:15:00, Incident_Flag: 1
+Vehicle_ID: 116, Speed_kmph: 119, Traffic_Density: 0.6, Weather_Condition: Stormy, Location: Industrial Area, Timestamp: 2025-05-17 08:16:00, Incident_Flag: 0
+Vehicle_ID: 117, Speed_kmph: 58, Traffic_Density: 0.6, Weather_Condition: Cloudy, Location: Airport Road, Timestamp: 2025-05-17 08:17:00, Incident_Flag: 0
+Vehicle_ID: 118, Speed_kmph: 39, Traffic_Density: 0.57, Weather_Condition: Rainy, Location: Highway 1, Timestamp: 2025-05-17 08:18:00, Incident_Flag: 1
+Vehicle_ID: 119, Speed_kmph: 93, Traffic_Density: 0.77, Weather_Condition: Cloudy, Location: Airport Road, Timestamp: 2025-05-17 08:19:00, Incident_Flag: 0
+Vehicle_ID: 120, Speed_kmph: 32, Traffic_Density: 0.17, Weather_Condition: Snowy, Location: Residential Area, Timestamp: 2025-05-17 08:20:00, Incident_Flag: 0
+Vehicle_ID: 121, Speed_kmph: 43, Traffic_Density: 0.73, Weather_Condition: Snowy, Location: City Center, Timestamp: 2025-05-17 08:21:00, Incident_Flag: 1
+Vehicle_ID: 122, Speed_kmph: 42, Traffic_Density: 0.22, Weather_Condition: Foggy, Location: Tech Park, Timestamp: 2025-05-17 08:22:00, Incident_Flag: 0
+Vehicle_ID: 123, Speed_kmph: 117, Traffic_Density: 0.19, Weather_Condition: Rainy, Location: City Center, Timestamp: 2025-05-17 08:23:00, Incident_Flag: 0
+Vehicle_ID: 124, Speed_kmph: 76, Traffic_Density: 0.15, Weather_Condition: Clear, Location: City Center, Timestamp: 2025-05-17 08:24:00, Incident_Flag: 0
+Vehicle_ID: 125, Speed_kmph: 72, Traffic_Density: 0.71, Weather_Condition: Stormy, Location: Industrial Area, Timestamp: 2025-05-17 08:25:00, Incident_Flag: 1
+Vehicle_ID: 126, Speed_kmph: 38, Traffic_Density: 0.92, Weather_Condition: Rainy, Location: Downtown, Timestamp: 2025-05-17 08:26:00, Incident_Flag: 1
+Vehicle_ID: 127, Speed_kmph: 93, Traffic_Density: 0.16, Weather_Condition: Rainy, Location: Commercial Street, Timestamp: 2025-05-17 08:27:00, Incident_Flag: 1
+Vehicle_ID: 128, Speed_kmph: 63, Traffic_Density: 0.11, Weather_Condition: Foggy, Location: City Center, Timestamp: 2025-05-17 08:28:00, Incident_Flag: 0
+Vehicle_ID: 129, Speed_kmph: 59, Traffic_Density: 0.88, Weather_Condition: Stormy, Location: Suburban Road, Timestamp: 2025-05-17 08:29:00, Incident_Flag: 1
+Vehicle_ID: 130, Speed_kmph: 20, Traffic_Density: 0.82, Weather_Condition: Foggy, Location: Tech Park, Timestamp: 2025-05-17 08:30:00, Incident_Flag: 1
+Vehicle_ID: 131, Speed_kmph: 70, Traffic_Density: 0.24, Weather_Condition: Rainy, Location: Highway 1, Timestamp: 2025-05-17 08:31:00, Incident_Flag: 1
+Vehicle_ID: 132, Speed_kmph: 70, Traffic_Density: 0.43, Weather_Condition: Cloudy, Location: Industrial Area, Timestamp: 2025-05-17 08:32:00, Incident_Flag: 1
+Vehicle_ID: 133, Speed_kmph: 37, Traffic_Density: 0.19, Weather_Condition: Rainy, Location: Downtown, Timestamp: 2025-05-17 08:33:00, Incident_Flag: 0
+Vehicle_ID: 134, Speed_kmph: 40, Traffic_Density: 0.96, Weather_Condition: Clear, Location: Main Street, Timestamp: 2025-05-17 08:34:00, Incident_Flag: 1
+Vehicle_ID: 135, Speed_kmph: 77, Traffic_Density: 0.4, Weather_Condition: Snowy, Location: Main Street, Timestamp: 2025-05-17 08:35:00, Incident_Flag: 0
+Vehicle_ID: 136, Speed_kmph: 100, Traffic_Density: 0.5, Weather_Condition: Clear, Location: Tech Park, Timestamp: 2025-05-17 08:36:00, Incident_Flag: 1
+Vehicle_ID: 137, Speed_kmph: 97, Traffic_Density: 0.89, Weather_Condition: Snowy, Location: Suburban Road, Timestamp: 2025-05-17 08:37:00, Incident_Flag: 0
+Vehicle_ID: 138, Speed_kmph: 37, Traffic_Density: 0.19, Weather_Condition: Cloudy, Location: Main Street, Timestamp: 2025-05-17 08:38:00, Incident_Flag: 0
+Vehicle_ID: 139, Speed_kmph: 107, Traffic_Density: 0.19, Weather_Condition: Foggy, Location: Residential Area, Timestamp: 2025-05-17 08:39:00, Incident_Flag: 1
+Vehicle_ID: 140, Speed_kmph: 30, Traffic_Density: 0.32, Weather_Condition: Clear, Location: Highway 1, Timestamp: 2025-05-17 08:40:00, Incident_Flag: 0
+Vehicle_ID: 141, Speed_kmph: 33, Traffic_Density: 0.8, Weather_Condition: Foggy, Location: Downtown, Timestamp: 2025-05-17 08:41:00, Incident_Flag: 0
+Vehicle_ID: 142, Speed_kmph: 31, Traffic_Density: 0.26, Weather_Condition: Rainy, Location: Commercial Street, Timestamp: 2025-05-17 08:42:00, Incident_Flag: 0
+Vehicle_ID: 143, Speed_kmph: 114, Traffic_Density: 0.95, Weather_Condition: Stormy, Location: Airport Road, Timestamp: 2025-05-17 08:43:00, Incident_Flag: 1
+Vehicle_ID: 144, Speed_kmph: 82, Traffic_Density: 0.63, Weather_Condition: Rainy, Location: Suburban Road, Timestamp: 2025-05-17 08:44:00, Incident_Flag: 0
+Vehicle_ID: 145, Speed_kmph: 92, Traffic_Density: 0.32, Weather_Condition: Rainy, Location: Commercial Street, Timestamp: 2025-05-17 08:45:00, Incident_Flag: 0
+Vehicle_ID: 146, Speed_kmph: 98, Traffic_Density: 0.67, Weather_Condition: Clear, Location: Highway 1, Timestamp: 2025-05-17 08:46:00, Incident_Flag: 0
+Vehicle_ID: 147, Speed_kmph: 68, Traffic_Density: 0.47, Weather_Condition: Rainy, Location: Commercial Street, Timestamp: 2025-05-17 08:47:00, Incident_Flag: 0
+Vehicle_ID: 148, Speed_kmph: 87, Traffic_Density: 0.27, Weather_Condition: Stormy, Location: Industrial Area, Timestamp: 2025-05-17 08:48:00, Incident_Flag: 1
+Vehicle_ID: 149, Speed_kmph: 25, Traffic_Density: 0.99, Weather_Condition: Rainy, Location: Commercial Street, Timestamp: 2025-05-17 08:49:00, Incident_Flag: 1
+Vehicle_ID: 150, Speed_kmph: 70, Traffic_Density: 0.87, Weather_Condition: Rainy, Location: Airport Road, Timestamp: 2025-05-17 08:50:00, Incident_Flag: 1
+Vehicle_ID: 151, Speed_kmph: 36, Traffic_Density: 0.83, Weather_Condition: Foggy, Location: Residential Area, Timestamp: 2025-05-17 08:51:00, Incident_Flag: 0
+Vehicle_ID: 152, Speed_kmph: 111, Traffic_Density: 0.18, Weather_Condition: Clear, Location: Main Street, Timestamp: 2025-05-17 08:52:00, Incident_Flag: 1
+Vehicle_ID: 153, Speed_kmph: 104, Traffic_Density: 0.29, Weather_Condition: Snowy, Location: Commercial Street, Timestamp: 2025-05-17 08:53:00, Incident_Flag: 0
+Vehicle_ID: 154, Speed_kmph: 107, Traffic_Density: 0.3, Weather_Condition: Clear, Location: Suburban Road, Timestamp: 2025-05-17 08:54:00, Incident_Flag: 1
+Vehicle_ID: 155, Speed_kmph: 59, Traffic_Density: 0.45, Weather_Condition: Stormy, Location: Residential Area, Timestamp: 2025-05-17 08:55:00, Incident_Flag: 0
+Vehicle_ID: 156, Speed_kmph: 75, Traffic_Density: 0.73, Weather_Condition: Snowy, Location: Main Street, Timestamp: 2025-05-17 08:56:00, Incident_Flag: 0
+Vehicle_ID: 157, Speed_kmph: 43, Traffic_Density: 0.19, Weather_Condition: Clear, Location: Residential Area, Timestamp: 2025-05-17 08:57:00, Incident_Flag: 0
+Vehicle_ID: 158, Speed_kmph: 51, Traffic_Density: 0.51, Weather_Condition: Cloudy, Location: Residential Area, Timestamp: 2025-05-17 08:58:00, Incident_Flag: 1
+Vehicle_ID: 159, Speed_kmph: 100, Traffic_Density: 0.32, Weather_Condition: Foggy, Location: Tech Park, Timestamp: 2025-05-17 08:59:00, Incident_Flag: 0
+Vehicle_ID: 160, Speed_kmph: 53, Traffic_Density: 0.83, Weather_Condition: Clear, Location: Tech Park, Timestamp: 2025-05-17 09:00:00, Incident_Flag: 0
+Vehicle_ID: 161, Speed_kmph: 108, Traffic_Density: 0.47, Weather_Condition: Rainy, Location: Downtown, Timestamp: 2025-05-17 09:01:00, Incident_Flag: 0
+Vehicle_ID: 162, Speed_kmph: 99, Traffic_Density: 0.76, Weather_Condition: Cloudy, Location: Industrial Area, Timestamp: 2025-05-17 09:02:00, Incident_Flag: 1
+Vehicle_ID: 163, Speed_kmph: 25, Traffic_Density: 0.83, Weather_Condition: Cloudy, Location: Airport Road, Timestamp: 2025-05-17 09:03:00, Incident_Flag: 1
+Vehicle_ID: 164, Speed_kmph: 30, Traffic_Density: 0.33, Weather_Condition: Rainy, Location: Downtown, Timestamp: 2025-05-17 09:04:00, Incident_Flag: 1
+Vehicle_ID: 165, Speed_kmph: 72, Traffic_Density: 0.92, Weather_Condition: Clear, Location: Industrial Area, Timestamp: 2025-05-17 09:05:00, Incident_Flag: 1
+Vehicle_ID: 166, Speed_kmph: 92, Traffic_Density: 0.96, Weather_Condition: Rainy, Location: City Center, Timestamp: 2025-05-17 09:06:00, Incident_Flag: 1
+Vehicle_ID: 167, Speed_kmph: 81, Traffic_Density: 0.41, Weather_Condition: Clear, Location: Suburban Road, Timestamp: 2025-05-17 09:07:00, Incident_Flag: 0
+Vehicle_ID: 168, Speed_kmph: 58, Traffic_Density: 0.88, Weather_Condition: Foggy, Location: Main Street, Timestamp: 2025-05-17 09:08:00, Incident_Flag: 0
+Vehicle_ID: 169, Speed_kmph: 116, Traffic_Density: 0.22, Weather_Condition: Rainy, Location: Airport Road, Timestamp: 2025-05-17 09:09:00, Incident_Flag: 1
+Vehicle_ID: 170, Speed_kmph: 52, Traffic_Density: 0.37, Weather_Condition: Snowy, Location: Airport Road, Timestamp: 2025-05-17 09:10:00, Incident_Flag: 1
+Vehicle_ID: 171, Speed_kmph: 85, Traffic_Density: 0.7, Weather_Condition: Cloudy, Location: Airport Road, Timestamp: 2025-05-17 09:11:00, Incident_Flag: 0
+Vehicle_ID: 172, Speed_kmph: 37, Traffic_Density: 0.28, Weather_Condition: Foggy, Location: Main Street, Timestamp: 2025-05-17 09:12:00, Incident_Flag: 1
+Vehicle_ID: 173, Speed_kmph: 39, Traffic_Density: 0.58, Weather_Condition: Foggy, Location: Highway 1, Timestamp: 2025-05-17 09:13:00, Incident_Flag: 0
+Vehicle_ID: 174, Speed_kmph: 77, Traffic_Density: 0.77, Weather_Condition: Cloudy, Location: Tech Park, Timestamp: 2025-05-17 09:14:00, Incident_Flag: 1
+Vehicle_ID: 175, Speed_kmph: 57, Traffic_Density: 0.64, Weather_Condition: Stormy, Location: Residential Area, Timestamp: 2025-05-17 09:15:00, Incident_Flag: 0
+Vehicle_ID: 176, Speed_kmph: 31, Traffic_Density: 0.42, Weather_Condition: Snowy, Location: Highway 1, Timestamp: 2025-05-17 09:16:00, Incident_Flag: 0
+Vehicle_ID: 177, Speed_kmph: 103, Traffic_Density: 0.71, Weather_Condition: Rainy, Location: Downtown, Timestamp: 2025-05-17 09:17:00, Incident_Flag: 1
+Vehicle_ID: 178, Speed_kmph: 92, Traffic_Density: 0.71, Weather_Condition: Clear, Location: Airport Road, Timestamp: 2025-05-17 09:18:00, Incident_Flag: 0
+Vehicle_ID: 179, Speed_kmph: 98, Traffic_Density: 0.29, Weather_Condition: Clear, Location: Commercial Street, Timestamp: 2025-05-17 09:19:00, Incident_Flag: 1
+Vehicle_ID: 180, Speed_kmph: 38, Traffic_Density: 0.45, Weather_Condition: Clear, Location: Downtown, Timestamp: 2025-05-17 09:20:00, Incident_Flag: 1
+Vehicle_ID: 181, Speed_kmph: 107, Traffic_Density: 0.14, Weather_Condition: Cloudy, Location: Industrial Area, Timestamp: 2025-05-17 09:21:00, Incident_Flag: 1
+Vehicle_ID: 182, Speed_kmph: 89, Traffic_Density: 0.6, Weather_Condition: Stormy, Location: City Center, Timestamp: 2025-05-17 09:22:00, Incident_Flag: 0
+Vehicle_ID: 183, Speed_kmph: 27, Traffic_Density: 0.66, Weather_Condition: Stormy, Location: Highway 1, Timestamp: 2025-05-17 09:23:00, Incident_Flag: 0
+Vehicle_ID: 184, Speed_kmph: 37, Traffic_Density: 0.42, Weather_Condition: Stormy, Location: Industrial Area, Timestamp: 2025-05-17 09:24:00, Incident_Flag: 1
+Vehicle_ID: 185, Speed_kmph: 114, Traffic_Density: 0.21, Weather_Condition: Rainy, Location: Industrial Area, Timestamp: 2025-05-17 09:25:00, Incident_Flag: 1
+Vehicle_ID: 186, Speed_kmph: 38, Traffic_Density: 0.55, Weather_Condition: Clear, Location: Main Street, Timestamp: 2025-05-17 09:26:00, Incident_Flag: 0
+Vehicle_ID: 187, Speed_kmph: 35, Traffic_Density: 0.96, Weather_Condition: Snowy, Location: Main Street, Timestamp: 2025-05-17 09:27:00, Incident_Flag: 1
+Vehicle_ID: 188, Speed_kmph: 102, Traffic_Density: 0.12, Weather_Condition: Foggy, Location: Downtown, Timestamp: 2025-05-17 09:28:00, Incident_Flag: 1
+Vehicle_ID: 189, Speed_kmph: 22, Traffic_Density: 0.16, Weather_Condition: Snowy, Location: Commercial Street, Timestamp: 2025-05-17 09:29:00, Incident_Flag: 0
+Vehicle_ID: 190, Speed_kmph: 85, Traffic_Density: 0.14, Weather_Condition: Clear, Location: Downtown, Timestamp: 2025-05-17 09:30:00, Incident_Flag: 1
+Vehicle_ID: 191, Speed_kmph: 66, Traffic_Density: 0.42, Weather_Condition: Foggy, Location: City Center, Timestamp: 2025-05-17 09:31:00, Incident_Flag: 0
+Vehicle_ID: 192, Speed_kmph: 33, Traffic_Density: 0.47, Weather_Condition: Foggy, Location: Highway 1, Timestamp: 2025-05-17 09:32:00, Incident_Flag: 1
+Vehicle_ID: 193, Speed_kmph: 31, Traffic_Density: 0.72, Weather_Condition: Clear, Location: Downtown, Timestamp: 2025-05-17 09:33:00, Incident_Flag: 1
+Vehicle_ID: 194, Speed_kmph: 21, Traffic_Density: 0.21, Weather_Condition: Cloudy, Location: Suburban Road, Timestamp: 2025-05-17 09:34:00, Incident_Flag: 0
+Vehicle_ID: 195, Speed_kmph: 27, Traffic_Density: 0.41, Weather_Condition: Cloudy, Location: Highway 1, Timestamp: 2025-05-17 09:35:00, Incident_Flag: 0
+Vehicle_ID: 196, Speed_kmph: 113, Traffic_Density: 0.87, Weather_Condition: Snowy, Location: Residential Area, Timestamp: 2025-05-17 09:36:00, Incident_Flag: 0
+Vehicle_ID: 197, Speed_kmph: 102, Traffic_Density: 0.41, Weather_Condition: Stormy, Location: Commercial Street, Timestamp: 2025-05-17 09:37:00, Incident_Flag: 0
+Vehicle_ID: 198, Speed_kmph: 93, Traffic_Density: 0.4, Weather_Condition: Cloudy, Location: Highway 1, Timestamp: 2025-05-17 09:38:00, Incident_Flag: 0
+Vehicle_ID: 199, Speed_kmph: 86, Traffic_Density: 0.2, Weather_Condition: Snowy, Location: Residential Area, Timestamp: 2025-05-17 09:39:00, Incident_Flag: 1
+Vehicle_ID: 200, Speed_kmph: 92, Traffic_Density: 0.54, Weather_Condition: Foggy, Location: Downtown, Timestamp: 2025-05-17 09:40:00, Incident_Flag: 1
 
-A smart city initiative leveraging AI, IoT, and robotics to optimize traffic flow, reduce congestion, and ensure emergency responsiveness.
-
-## 🔍 Problem Statement
-Cities struggle with managing dynamic traffic patterns. This project introduces an intelligent platform capable of:
-- Real-time congestion detection
-- Adaptive traffic signal control
-- Autonomous monitoring via drones and bots
-
-## 🛠 Features
-- **Traffic Prediction** using LSTM and Random Forest
-- **Drone Surveillance** with real-time video feeds (ROS-enabled)
-- **Smart Signal Control** (Arduino)
-- **Live Dashboard** for traffic authorities
-- **Secure IoT Communication** via MQTT
-
-## 📁 Folder Structure
