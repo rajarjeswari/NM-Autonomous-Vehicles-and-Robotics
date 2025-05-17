@@ -1,0 +1,18 @@
+# 🚗 AI-Driven Autonomous Traffic Management System
+
+A smart city initiative leveraging AI, IoT, and robotics to optimize traffic flow, reduce congestion, and ensure emergency responsiveness.
+
+## 🔍 Problem Statement
+Cities struggle with managing dynamic traffic patterns. This project introduces an intelligent platform capable of:
+- Real-time congestion detection
+- Adaptive traffic signal control
+- Autonomous monitoring via drones and bots
+
+## 🛠 Features
+- **Traffic Prediction** using LSTM and Random Forest
+- **Drone Surveillance** with real-time video feeds (ROS-enabled)
+- **Smart Signal Control** (Arduino)
+- **Live Dashboard** for traffic authorities
+- **Secure IoT Communication** via MQTT
+
+## 📁 Folder Structure
